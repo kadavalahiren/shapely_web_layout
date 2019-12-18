@@ -71,20 +71,20 @@
         .section_first_div_second_div07{
             width: 100%;
             height: 100%;
-            background-color: black;
+            background-color: hotpink;
         }
         .section_second {
             width: 100%;
             margin: auto;
             padding: 100px;
-            background-color: black;
+            background-color:gray;
         }
         
         .section_second_div {
             width: 60%;
             height: 400px;
             margin: auto;
-            background-color: white;
+            background-color: hotpink;
         }
         
         .section_second_div_1 {
@@ -97,7 +97,7 @@
         .section_second_div_01{
             width: 100%;
             height: 100%;
-            background-color: gray;
+            background-color:white;
         }
         
         .section_second_div_2 {
@@ -108,7 +108,7 @@
         .section_second_div_02{
             width: 100%;
             height: 100%;
-            background-color: gray;
+            background-color:white;
         }
         .section_second_div_3 {
             width: 60%;
@@ -118,7 +118,7 @@
         .section_second_div_03{
             width: 100%;
             height: 100%;
-            background-color: gray;
+            background-color:white;
         }
         
         .section_second_div_4 {
@@ -139,7 +139,7 @@
         .section_second_div_4_01{
             width: 100%;
             height: 100%;
-            background-color: gray;
+            background-color:white;
         }
         
         .section_second_div_4_2 {
@@ -152,7 +152,7 @@
         .section_second_div_4_02{
             width: 100%;
             height: 100%;
-            background-color: gray;
+            background-color:white;
         }
         .section_third{
             width: 100%;
@@ -170,7 +170,6 @@
     height: 400px;
     margin: auto;
     padding: 20px;
-    background-color: gray;
     float: left;
 }
 .section_third_1_first_1{
@@ -186,7 +185,7 @@
 .section_third_1_first_1_01{
     width: 100%;
     height: 100%;
-    background-color: dimgray;
+    background-color: white;
 }
 .section_third_1_first_1_2{
     width: 100%;
@@ -196,7 +195,7 @@
 .section_third_1_first_1_02{
     width: 100%;
     height: 100%;
-    background-color: dimgray;
+    background-color: white;
 }
 .section_third_1_first_1_3{
     width: 180px;
@@ -206,7 +205,7 @@
 .section_third_1_first_1_03{
     width: 100%;
     height: 100%;
-    background-color: dimgray;
+    background-color: white;
 }
 .section_third_1_first_1_03_1{
     width: 100px;
@@ -235,7 +234,6 @@
     height: 400px;
     margin: auto;
     padding: 20px;
-    background-color: gray;
     float: left;
 }
 .section_fourth_1_second_1{
@@ -256,7 +254,7 @@
 .section_fourth_1_first_1_01{
     width: 100%;
     height: 100%;
-    background-color: dimgray;
+    background-color: white;
 }
 .section_fourth_1_first_1_2{
     width: 100%;
@@ -266,7 +264,7 @@
 .section_fourth_1_first_1_02{
     width: 100%;
     height: 100%;
-    background-color: dimgray;
+    background-color:white;
 }
 .section_fourth_1_first_1_3{
     width: 200px;
@@ -276,7 +274,7 @@
 .section_fourth_1_first_1_03{
     width: 100%;
     height: 100%;
-    background-color: dimgray;
+    background-color:white;
 }
 .section_fourth_1_first_1_03_1{
     width: 150px;
@@ -424,4 +422,285 @@
     width: 100%;
     height: 100%;
     background-color: white;
+}
+.section_sixth_div_image{
+    width: 100%;
+    height:800px;
+    margin: auto;
+    background-color: gray;
+}
+.section_seven{
+    width: 100%;
+    margin: auto;
+}
+.section_seven_div{
+    width: 90%;
+    margin: auto;
+    padding: 50px;
+}
+.section_seven_divv{
+    width: 50%;
+    margin: auto;
+}
+.section_seven_divv1{
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    padding: 30px;
+}
+.section_seven_divv01{
+    width: 100%;
+    height: 100%;
+    background-color: hotpink;
+}
+.section_seven_divv2{
+    width: 100%;
+    height: 60px;
+    margin: auto;
+    padding: 10px;
+}
+.section_seven_divv02{
+    width: 100%;
+    height: 100%;
+    background-color: hotpink;
+}
+.section_eight{
+    width: 100%;
+    margin: auto;
+}
+.section_eight_div{
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+.section_eight_div_image{
+    width: 25%;
+    height: 200px;
+    margin:auto;
+    padding: 1px;
+    float: left;
+}
+.section_eight_div_image0{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+}
+.section_nine{
+    width: 100%;
+    margin: auto;
+    background-color:hotpink;
+}
+.section_nine_div{
+    width: 80%;
+    padding: 50px;
+    margin: auto;
+}
+.section_nine_div1{
+    width: 70%;
+    margin: auto; 
+    background-color:white;
+}
+.section_nine_div01{
+    width: 70%;
+    height: 50px;
+    margin: auto; 
+}
+.section_nine_div2{
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+}
+.section_nine_div02{
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    padding: 10px;
+    background-color:white;
+}
+.section_nine_div3{
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    overflow: auto;
+}
+.section_nine_div3_1{
+    width: 10%;
+    height: 100px;
+    margin: auto;
+    float: left;
+}
+.section_nine_div3_2{
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    float: left;
+}
+.section_nine_div3_3{
+    width: 10%;
+    height: 100px;
+    margin: auto;
+    float: left;
+}
+.section_nine_div3_1_1{
+    width: 90px;
+    height: 100px;
+    margin: auto;
+    padding: 30px;
+}
+.section_nine_div3_1_01{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.section_nine_div3_1_2{
+    width: 90px;
+    height: 100px;
+    margin: auto;
+    padding: 10px;
+}
+.section_nine_div3_1_02{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.section_ten{
+    width: 100%;
+    margin: auto;
+    padding: 50px;
+}
+.section_ten_div_first{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+.section_ten_div_first_1{
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    background-color: gray;
+}
+.section_ten_div_second{
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    overflow: auto;
+}
+.section_ten_div_second1{
+    width: 25%;
+    height: 200px;
+    margin: auto;
+    padding: 20px;
+    float: left;
+}
+.section_ten_div_second01{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+}
+.section_ten_div_second001{
+    width: 160px;
+    height: 160px;
+    margin: auto;
+    padding: 30px;
+}
+.section_ten_div_second0001{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.section_eleven{
+    width: 100%;
+    margin: auto;
+    padding: 50px;
+}
+.section_eleven_div{
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+.section_eleven_div1{
+    width: 70%;
+    height: 80px;
+    margin: auto;
+    padding: 10px;
+    float: left;
+}
+.section_eleven_div01{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+}
+.section_eleven_div2{
+    width: 30%;
+    height: 80px;
+    margin: auto;
+    padding: 10px;
+    float: left;
+}
+.section_eleven_div02{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+}
+.section_eleven_div002{
+    width: 60%;
+    height: 60px;
+    margin: auto;
+    padding: 10px;
+}
+.section_eleven_div0002{
+    width: 100%;
+    height: 100%;
+    background-color:white;
+}
+.section_twelve{
+    width: 100%;
+    height: 200px;
+    margin: auto;
+    padding: 20px;
+    background-color: gray;
+}
+.section_twelve_div{
+    width: 90%;
+    height: 100%;
+    padding: 40px;
+    margin: auto;
+    overflow: auto;
+}
+.section_twelve_div1{
+    width: 20%;
+    height: 40px;
+    margin: auto;
+    padding: 5px;
+    overflow: auto;
+    float: right;
+}
+.section_twelve_div11{
+    width: 20%;
+    height: 100%;
+    padding: 1px;
+    float: right;
+}
+.section_twelve_div011{
+    width: 100%;
+    height: 100%;
+    background-color:white;
+}
+.section_twelve_div2{
+    width: 30%;
+    height: 60px;
+    margin: 10px auto;
+    padding: 5px;
+    float: left;
+}
+.section_twelve_di21{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    float: left;
+}
+.section_twelve_div021{
+    width: 100%;
+    height: 100%;
+    background-color:white;
 }
